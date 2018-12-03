@@ -1,0 +1,1 @@
+curl -i -H "Content-Type: application/json" -X POST -d '{"username":"Test"}' http://localhost:8000/codigo/api/v1.0/users/
